@@ -195,3 +195,5 @@ Chúng ta cũng có thể định vị địa lý bằng JavaScript:
 Điều này sẽ không hoạt động nếu máy tính hoặc trình duyệt của bạn không cho phép theo dõi vị trí.
 
 Khả năng của JavaScript là rất nhiều. Chúng ta có thể tìm thêm trong [Tài liệu JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+Và đó là kết thúc tuần 8 ^^
