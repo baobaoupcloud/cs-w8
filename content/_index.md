@@ -1,19 +1,18 @@
 ---
-title : "CS50 Week 5"
+title : "CS50 Week 8"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 ---
-# CS50 Week 5 - Data Structure
+# CS50 Week 8 - HTML, CSS, JavaScript
 
 ### Overall
-Welcome to week 5. On this week, we are going to talk about organizing data in memory. We will go through these following contents.
+Welcome to week 8. On this week, we are going to learn about HTML, CSS, and JavaScript. We will go through these following contents.
 
 ### Content
- 1. [Data Structures](1-Data-structures/)
- 2. [Stacks and Queues](2-Stacks-and-Queues/)
- 3. [Resizing Arrays](3-Resizing-arrays/)
- 4. [Linked Lists](4-Linked-lists/)
- 5. [Trees](5-Trees/)
- 6. [Dictionaries](6-Dictionaries/)
- 7. [Tries](7-Tries/)
+ 1. [Routers](1-Routers/)
+ 2. [HTML](2-HTML/)
+ 3. [Regular Expressions](3-Regular-expressions/)
+ 4. [CSS](4-CSS/)
+ 5. [Frameworks](5-Frameworks/)
+ 6. [JavaScript](6-JavaScript/)

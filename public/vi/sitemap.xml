@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/vi/1-data-structures/</loc>
+    <loc>//localhost:1313/vi/1-routers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-data-structures/"
+                href="//localhost:1313/1-routers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-data-structures/"
+                href="//localhost:1313/vi/1-routers/"
                 />
   </url><url>
     <loc>//localhost:1313/vi/</loc>
@@ -26,76 +26,64 @@
                 href="//localhost:1313/vi/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-stacks-and-queues/</loc>
+    <loc>//localhost:1313/vi/2-html/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-stacks-and-queues/"
+                href="//localhost:1313/2-html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-stacks-and-queues/"
+                href="//localhost:1313/vi/2-html/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-resizing-arrays/</loc>
+    <loc>//localhost:1313/vi/3-regular-expressions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-resizing-arrays/"
+                href="//localhost:1313/3-regular-expressions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-resizing-arrays/"
+                href="//localhost:1313/vi/3-regular-expressions/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-linked-lists/</loc>
+    <loc>//localhost:1313/vi/4-css/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-linked-lists/"
+                href="//localhost:1313/4-css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-linked-lists/"
+                href="//localhost:1313/vi/4-css/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/6-dictionaries/</loc>
+    <loc>//localhost:1313/vi/5-frameworks/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-dictionaries/"
+                href="//localhost:1313/5-frameworks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-dictionaries/"
+                href="//localhost:1313/vi/5-frameworks/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/5-trees/</loc>
+    <loc>//localhost:1313/vi/6-javascript/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-trees/"
+                href="//localhost:1313/6-javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-trees/"
-                />
-  </url><url>
-    <loc>//localhost:1313/vi/7-tries/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/7-tries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/7-tries/"
+                href="//localhost:1313/vi/6-javascript/"
                 />
   </url><url>
     <loc>//localhost:1313/vi/categories/</loc>
