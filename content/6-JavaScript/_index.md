@@ -195,3 +195,5 @@ Interestingly, we can also geolocate using JavaScript:
 Notice that `navigator.geolocation` is used to `getCurrentPosition`. This will not work if your computer or browser does not allow for location tracking.
 
 The capabilities of JavaScript are many and can be found in the [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+And that's the end of week 8 ^^
