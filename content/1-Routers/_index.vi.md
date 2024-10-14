@@ -14,7 +14,7 @@ Bạn có thể hình dung cách dữ liệu có thể đi qua nhiều tuyến �
 TCP/IP là hai giao thức cho phép các máy tính truyền dữ liệu giữa chúng qua internet.
 
 ***IP*** là cách mà các máy tính có thể nhận diện lẫn nhau trên internet. Mỗi máy tính có một địa chỉ duy nhất trên thế giới. Địa chỉ có dạng như sau:
-```
+```bash
   #.#.#.#
 ```
 Các con số dao động từ 0 đến 255. Địa chỉ IP là 32-bit, có nghĩa là các địa chỉ này có thể chứa hơn 4 tỷ địa chỉ. Phiên bản mới hơn của địa chỉ IP, sử dụng 128-bit, có thể chứa được nhiều máy tính hơn nữa!
