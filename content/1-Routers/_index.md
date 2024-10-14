@@ -14,7 +14,7 @@ You can imagine how data could take multiple paths from point A and point B, suc
 TCP/IP are two protocols that allow computers to transfer data between them over the internet.
 
 ***IP*** or internet protocol is a way by which computers can identify one another across the internet. Every computer has a unique address in the world. Addresses are in this form:
-```
+```bash
   #.#.#.#
 ```
 Numbers range from 0 to 255. IP addresses are 32-bits, meaning that these addresses could accommodate over 4 billion addresses. Newer versions of IP addresse, implementing 128-bits, can accommodate far more computers!
